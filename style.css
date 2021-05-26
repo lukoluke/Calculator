@@ -1,5 +1,7 @@
 body {
   background-image: url("sparkle.gif");
+  background-repeat: no-repeat;
+  background-position: fixed;
   width: 500px;
   margin: 4% auto;
   font-family: 'Source Sans Pro', sans-serif;
